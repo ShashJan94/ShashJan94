@@ -1,6 +1,5 @@
--  Hi, I’m @SCsharma
-- Cultivating on statistics and conventional AI models.
-- Currently working on data analysis and building machine learning models. Surface creation for multi-variate exponential functions is a complex operation. Multi-lane roads can be a solution to the mentioned problem not only PCA or other dimension reduction techniques.  
-<!---
-ShashJan94/ShashJan94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+👋 Hey there, I'm @SCsharma.
+
+🚀 I'm like that tech Swiss Army knife you've always wanted. Bots, Docker, Azure, SQL—I dabble in it all.
+
+🤖 As an AI engineer, I've got a sweet spot for the world of Artificial Intelligence and machine learning. Currently, I'm neck-deep in the fascinating realm of human behavior analysis. My mission? Crafting AI systems that chat with humans so realistically, you'd think they're one of us, all thanks to some serious behavior analysis magic.
