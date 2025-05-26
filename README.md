@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="![image2](image2)" alt="Profile Banner" style="border-radius: 20px; width: 90%; max-width: 1000px;"/>
+  <img src="https://github.com/ShashJan94/ShashJan94/blob/main/images/git_banner.png" alt="Profile Banner" style="border-radius: 20px; width: 100%; max-width: 1000px;"/>
 </p>
 
 <!-- Top Section Floating Cards -->
