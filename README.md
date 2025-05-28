@@ -33,7 +33,7 @@
   </table>
 </div>
 
-<!-- Lower Section Floating Cards with Colorful Skill Blocks -->
+<!-- Lower Section Floating Cards with Skill Blocks -->
 <div align="center" style="margin-top: 20px;">
   <table>
     <tr>
@@ -47,7 +47,7 @@
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222"/>
           <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
           <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Unity-9BA49E?style=for-the-badge&logo=unity&logoColor=white"/>
         </p>
       </td>
       <td width="300" valign="top" style="background: #f7fafd; border-radius: 28px; box-shadow: 0 4px 18px #d0d7e8; padding: 18px 14px; border: none;">
